@@ -1,10 +1,16 @@
 _repo: Verso-la-cuna-del-mondo-Lettere-dall-India_50996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50996-h/images/cover.jpg
 creator:
   author:
     agent_name: Gozzano, Guido
     gutenberg_agent_id: '46189'
     url: http://www.gutenberg.org/2009/agents/46189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50996#Verso-la-cuna-del-mondo-Lettere-dall-India
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
